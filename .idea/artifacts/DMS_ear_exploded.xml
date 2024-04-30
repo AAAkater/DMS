@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="DMS:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DMS_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DMS/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
